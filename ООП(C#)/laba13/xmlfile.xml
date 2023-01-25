@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cars>
+  <car>
+    <type>car</type>
+    <brand>BMW</brand>
+  </car>
+  <car>
+    <type>car</type>
+    <brand>Audi</brand>
+  </car>
+  <car>
+    <type>car</type>
+    <brand>Volkswagen</brand>
+  </car>
+  <car>
+    <type>car</type>
+    <brand>Volvo</brand>
+  </car>
+</cars>

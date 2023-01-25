@@ -1,0 +1,17 @@
+D:\C#\laba13\laba13\obj\Debug\net6.0\laba13.csproj.AssemblyReference.cache
+D:\C#\laba13\laba13\obj\Debug\net6.0\laba13.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\laba13\laba13\obj\Debug\net6.0\laba13.AssemblyInfoInputs.cache
+D:\C#\laba13\laba13\obj\Debug\net6.0\laba13.AssemblyInfo.cs
+D:\C#\laba13\laba13\obj\Debug\net6.0\laba13.csproj.CoreCompileInputs.cache
+D:\C#\laba13\laba13\bin\Debug\net6.0\laba13.exe
+D:\C#\laba13\laba13\bin\Debug\net6.0\laba13.deps.json
+D:\C#\laba13\laba13\bin\Debug\net6.0\laba13.runtimeconfig.json
+D:\C#\laba13\laba13\bin\Debug\net6.0\laba13.dll
+D:\C#\laba13\laba13\bin\Debug\net6.0\laba13.pdb
+D:\C#\laba13\laba13\obj\Debug\net6.0\laba13.dll
+D:\C#\laba13\laba13\obj\Debug\net6.0\refint\laba13.dll
+D:\C#\laba13\laba13\obj\Debug\net6.0\laba13.pdb
+D:\C#\laba13\laba13\obj\Debug\net6.0\laba13.genruntimeconfig.cache
+D:\C#\laba13\laba13\obj\Debug\net6.0\ref\laba13.dll
+D:\C#\laba13\laba13\bin\Debug\net6.0\SoapFormatter.dll
+D:\C#\laba13\laba13\obj\Debug\net6.0\laba13.csproj.CopyComplete
