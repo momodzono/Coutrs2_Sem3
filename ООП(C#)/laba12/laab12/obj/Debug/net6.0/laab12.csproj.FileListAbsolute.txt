@@ -1,0 +1,15 @@
+D:\C#\laab12\laab12\bin\Debug\net6.0\laab12.exe
+D:\C#\laab12\laab12\bin\Debug\net6.0\laab12.deps.json
+D:\C#\laab12\laab12\bin\Debug\net6.0\laab12.runtimeconfig.json
+D:\C#\laab12\laab12\bin\Debug\net6.0\laab12.dll
+D:\C#\laab12\laab12\bin\Debug\net6.0\laab12.pdb
+D:\C#\laab12\laab12\obj\Debug\net6.0\laab12.csproj.AssemblyReference.cache
+D:\C#\laab12\laab12\obj\Debug\net6.0\laab12.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\laab12\laab12\obj\Debug\net6.0\laab12.AssemblyInfoInputs.cache
+D:\C#\laab12\laab12\obj\Debug\net6.0\laab12.AssemblyInfo.cs
+D:\C#\laab12\laab12\obj\Debug\net6.0\laab12.csproj.CoreCompileInputs.cache
+D:\C#\laab12\laab12\obj\Debug\net6.0\laab12.dll
+D:\C#\laab12\laab12\obj\Debug\net6.0\refint\laab12.dll
+D:\C#\laab12\laab12\obj\Debug\net6.0\laab12.pdb
+D:\C#\laab12\laab12\obj\Debug\net6.0\laab12.genruntimeconfig.cache
+D:\C#\laab12\laab12\obj\Debug\net6.0\ref\laab12.dll

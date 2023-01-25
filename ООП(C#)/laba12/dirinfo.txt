@@ -1,0 +1,8 @@
+Directories: 
+D:\C#\laab12\.vs
+D:\C#\laab12\AYPInspect
+D:\C#\laab12\laab12
+Files: 
+D:\C#\laab12\AYPlog.txt
+D:\C#\laab12\laab12.sln
+D:\C#\laab12\newName.txt

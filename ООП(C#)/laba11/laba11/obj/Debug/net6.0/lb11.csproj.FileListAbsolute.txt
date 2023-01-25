@@ -1,0 +1,15 @@
+D:\C#\laba11\laba11\bin\Debug\net6.0\lb11.exe
+D:\C#\laba11\laba11\bin\Debug\net6.0\lb11.deps.json
+D:\C#\laba11\laba11\bin\Debug\net6.0\lb11.runtimeconfig.json
+D:\C#\laba11\laba11\bin\Debug\net6.0\lb11.dll
+D:\C#\laba11\laba11\bin\Debug\net6.0\lb11.pdb
+D:\C#\laba11\laba11\obj\Debug\net6.0\lb11.csproj.AssemblyReference.cache
+D:\C#\laba11\laba11\obj\Debug\net6.0\lb11.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\laba11\laba11\obj\Debug\net6.0\lb11.AssemblyInfoInputs.cache
+D:\C#\laba11\laba11\obj\Debug\net6.0\lb11.AssemblyInfo.cs
+D:\C#\laba11\laba11\obj\Debug\net6.0\lb11.csproj.CoreCompileInputs.cache
+D:\C#\laba11\laba11\obj\Debug\net6.0\lb11.dll
+D:\C#\laba11\laba11\obj\Debug\net6.0\refint\lb11.dll
+D:\C#\laba11\laba11\obj\Debug\net6.0\lb11.pdb
+D:\C#\laba11\laba11\obj\Debug\net6.0\lb11.genruntimeconfig.cache
+D:\C#\laba11\laba11\obj\Debug\net6.0\ref\lb11.dll
