@@ -1,0 +1,15 @@
+D:\C#\Laba8\Laba8\bin\Debug\net6.0\Laba8.exe
+D:\C#\Laba8\Laba8\bin\Debug\net6.0\Laba8.deps.json
+D:\C#\Laba8\Laba8\bin\Debug\net6.0\Laba8.runtimeconfig.json
+D:\C#\Laba8\Laba8\bin\Debug\net6.0\Laba8.dll
+D:\C#\Laba8\Laba8\bin\Debug\net6.0\Laba8.pdb
+D:\C#\Laba8\Laba8\obj\Debug\net6.0\Laba8.csproj.AssemblyReference.cache
+D:\C#\Laba8\Laba8\obj\Debug\net6.0\Laba8.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Laba8\Laba8\obj\Debug\net6.0\Laba8.AssemblyInfoInputs.cache
+D:\C#\Laba8\Laba8\obj\Debug\net6.0\Laba8.AssemblyInfo.cs
+D:\C#\Laba8\Laba8\obj\Debug\net6.0\Laba8.csproj.CoreCompileInputs.cache
+D:\C#\Laba8\Laba8\obj\Debug\net6.0\Laba8.dll
+D:\C#\Laba8\Laba8\obj\Debug\net6.0\refint\Laba8.dll
+D:\C#\Laba8\Laba8\obj\Debug\net6.0\Laba8.pdb
+D:\C#\Laba8\Laba8\obj\Debug\net6.0\Laba8.genruntimeconfig.cache
+D:\C#\Laba8\Laba8\obj\Debug\net6.0\ref\Laba8.dll
