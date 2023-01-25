@@ -1,0 +1,15 @@
+D:\C#\laba7\laba7\bin\Debug\net6.0\laba7.exe
+D:\C#\laba7\laba7\bin\Debug\net6.0\laba7.deps.json
+D:\C#\laba7\laba7\bin\Debug\net6.0\laba7.runtimeconfig.json
+D:\C#\laba7\laba7\bin\Debug\net6.0\laba7.dll
+D:\C#\laba7\laba7\bin\Debug\net6.0\laba7.pdb
+D:\C#\laba7\laba7\obj\Debug\net6.0\laba7.csproj.AssemblyReference.cache
+D:\C#\laba7\laba7\obj\Debug\net6.0\laba7.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\laba7\laba7\obj\Debug\net6.0\laba7.AssemblyInfoInputs.cache
+D:\C#\laba7\laba7\obj\Debug\net6.0\laba7.AssemblyInfo.cs
+D:\C#\laba7\laba7\obj\Debug\net6.0\laba7.csproj.CoreCompileInputs.cache
+D:\C#\laba7\laba7\obj\Debug\net6.0\laba7.dll
+D:\C#\laba7\laba7\obj\Debug\net6.0\refint\laba7.dll
+D:\C#\laba7\laba7\obj\Debug\net6.0\laba7.pdb
+D:\C#\laba7\laba7\obj\Debug\net6.0\laba7.genruntimeconfig.cache
+D:\C#\laba7\laba7\obj\Debug\net6.0\ref\laba7.dll

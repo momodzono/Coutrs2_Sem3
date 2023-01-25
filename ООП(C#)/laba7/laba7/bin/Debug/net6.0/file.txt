@@ -1,0 +1,3 @@
+Year - 2000 Height - 2 Name - Bumblebee
+Year - 2001 Height - 5 Name - Optimus Prime
+Year - 2002 Height - 4 Name - Starscream
