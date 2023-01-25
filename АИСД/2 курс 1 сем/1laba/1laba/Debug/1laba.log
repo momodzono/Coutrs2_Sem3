@@ -1,0 +1,22 @@
+﻿Сборка начата 20.10.2022 13:42:04.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\Discover\Documents\Структуры\2 курс 1 сем\1laba\1laba\1laba.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\1laba.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Discover\Documents\Структуры\2 курс 1 сем\1laba\Debug\1laba.exe" /INCREMENTAL /ILK:"Debug\1laba.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Discover\Documents\Структуры\2 курс 1 сем\1laba\Debug\1laba.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Discover\Documents\Структуры\2 курс 1 сем\1laba\Debug\1laba.lib" /MACHINE:X86 Debug\Source.obj
+         LINK : не найден или не выполнена сборка C:\Users\Discover\Documents\Структуры\2 курс 1 сем\1laba\Debug\1laba.exe при последней инкрементной компоновке; выполняется полная компоновка
+     1>LINK : fatal error LNK1104: не удается открыть файл "C:\Users\Discover\Documents\Структуры\2 курс 1 сем\1laba\Debug\1laba.exe"
+     1>Сборка проекта "C:\Users\Discover\Documents\Структуры\2 курс 1 сем\1laba\1laba\1laba.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+       "C:\Users\Discover\Documents\Структуры\2 курс 1 сем\1laba\1laba\1laba.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект Link) -> 
+         LINK : fatal error LNK1104: не удается открыть файл "C:\Users\Discover\Documents\Структуры\2 курс 1 сем\1laba\Debug\1laba.exe"
+
+    Предупреждений: 0
+    Ошибок: 1
+
+Прошло времени 00:00:01.25
